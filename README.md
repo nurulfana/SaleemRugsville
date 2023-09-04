@@ -28,31 +28,31 @@ There are two users that can access this system which are Admin and Normal Staff
 - Developed using HTML, CSS, PHP, Bootstrap, and SASS.
 - Database used for this development is MYSQL.
 
-# UI of this project
+# Snippets of this project
 
 <table>
      <tr>
-         <td>Admin Login</td>
-         <td><img src="UI/AdminLogin.png" width=889 height=481></td>
+         <td><img src="Ss/Login.png"></td>
      </tr>
       <tr>
-         <td>Register Venue</td>
-         <td><img src="UI/RegisterVenue.png" width=909 height=451></td>
+         <td><img src="Ss/MainPage.png"></td>
       </tr>
       <tr>
-         <td>Main Page</td>
-         <td><img src="UI/MainPage.png" width=1038 height=552></td>
+         <td><img src="Ss/AddProduct.png"></td>
       </tr>
       <tr>
-         <td>User List</td>
-         <td><img src="UI/UserList.png" width=1099 height=436></td>
+         <td><img src="Ss/CustomerList.png"></td>
       </tr>
       <tr>
-         <td>Admin List</td>
-         <td><img src="UI/AdminList.png" width=1060 height=355></td>
+         <td><img src="Ss/ProductDetail.png"></td>
       </tr>
       <tr>
-         <td>Venue List</td>
-         <td><img src="UI/VenueList.png" width=1093 height=552></td>
+         <td><img src="Ss/SearchProduct.png"></td>
+      </tr> 
+      <tr>
+         <td><img src="Ss/CreateOrder.png"></td>
+      </tr>
+      <tr>
+         <td><img src="Ss/GenerateInvoice.png"></td>
       </tr>
 </table>

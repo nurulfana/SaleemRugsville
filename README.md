@@ -1,8 +1,8 @@
 # Overview
-This is a web-based back office system for a company that sells carpets, rugs, and curtains. 
+This is a web-based back office system for a company that sells carpets, rugs, and curtains. Check out this project at **[Saleem Rugsville Website](http://lrgs.ftsm.ukm.my/users/a175171/mypt4/login.php)** 
 
 # Features
-There are two users that can access this system which are Admin and Normal Staff. Features with '*' symbol can only be accessed by the Admin role.
+There are two users that can access this system which are Admin and Normal Staff. Features with the '*' symbol can only be accessed by the Admin role.
 1. Product:
    - Add new products and upload an image *
    - View list of products 
@@ -31,31 +31,28 @@ There are two users that can access this system which are Admin and Normal Staff
 # UI of this project
 
 <table>
-  <tr>
-    <td>Splash Screen</td>
-     <td>Login</td>
-     <td>Register</td>
-    <td>Insert Event Details</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/splash_screen.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/login.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/SignUp.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/InsertEventDetails.png" width=183 height=376></td>
-  </tr>
- </table>
-  <table>
-  <tr>    
-     <td>Main Menu</td>
-     <td>Side Navigation</td>
-     <td>Venue</td>
-     <td>Dashboard</td>
-  </tr>
-  <tr>    
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/main%20menu.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/side.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/venue.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/Dashboard.png" width=183 height=376></td>
-  </tr>
- </table>
- 
+     <tr>
+         <td>Admin Login</td>
+         <td><img src="UI/AdminLogin.png" width=889 height=481></td>
+     </tr>
+      <tr>
+         <td>Register Venue</td>
+         <td><img src="UI/RegisterVenue.png" width=909 height=451></td>
+      </tr>
+      <tr>
+         <td>Main Page</td>
+         <td><img src="UI/MainPage.png" width=1038 height=552></td>
+      </tr>
+      <tr>
+         <td>User List</td>
+         <td><img src="UI/UserList.png" width=1099 height=436></td>
+      </tr>
+      <tr>
+         <td>Admin List</td>
+         <td><img src="UI/AdminList.png" width=1060 height=355></td>
+      </tr>
+      <tr>
+         <td>Venue List</td>
+         <td><img src="UI/VenueList.png" width=1093 height=552></td>
+      </tr>
+</table>

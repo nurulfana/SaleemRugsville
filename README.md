@@ -25,7 +25,7 @@ There are two users that can access this system which are Admin and Normal Staff
    - Generate invoice
 
 # Platform
-- Developed using HTML, CSS, PHP, Bootstrap, and SASS.
+- Developed using HTML, CSS, PHP and Bootstrap.
 - Database used for this development is MYSQL.
 
 # Snippets of this project

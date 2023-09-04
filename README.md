@@ -1,4 +1,4 @@
-# Overviewr
+# Overview
 This is a web-based back office system for a company that sells carpets, rugs, and curtains. 
 
 # Features
